@@ -61,8 +61,11 @@ open-source software AI Qadam owns and runs. Build is **not** a fifth stream and
 | [**flow.aiqadam.org**](https://github.com/aiqadam/flow.aiqadam.org) | Public landing for Qadam Flow. |
 | [**build.aiqadam.org**](https://github.com/aiqadam/build.aiqadam.org) | The open-source infrastructure layer of AI Qadam. |
 | [**brand.aiqadam.org**](https://github.com/aiqadam/brand.aiqadam.org) | Brand & design system reference. |
-| [**ai-qadam-platform**](https://github.com/aiqadam/ai-qadam-platform) | Platform for the AI Qadam community. |
-| [**ai-qadam-infra**](https://github.com/aiqadam/ai-qadam-infra) | Infrastructure management for AI Qadam servers & services. |
+| [**ai-qadam-platform**](https://github.com/aiqadam/ai-qadam-platform) | Multi-tenant community platform — events, registrations, gamification, RBAC. Live on aiqadam.org. |
+| [**aiqadam-events-bot**](https://github.com/aiqadam/aiqadam-events-bot) | Events bot — publishing, registration, QR check-in via Telegram Mini App. Zero-code, built on Qadam Flow. |
+| [**aiqadam-events-bot-prod**](https://github.com/aiqadam/aiqadam-events-bot-prod) | Prod hosting for the Events Mini App (built from `aiqadam-events-bot@prod`). |
+| [**aiqadam-telegram-bot**](https://github.com/aiqadam/aiqadam-telegram-bot) | Telegram bot + outbound notifier (aiogram) — companion to ai-qadam-platform. |
+| [**aiqadam-next**](https://github.com/aiqadam/aiqadam-next) | Next.js community site + Telegram bot workspaces (web + grammY/Drizzle). |
 
 ## Get involved
 
