@@ -48,6 +48,7 @@ open-source software AI Qadam owns and runs. Build is **not** a fifth stream and
 |---|---|---|
 | **[Qadam Flow](https://flow.aiqadam.org)** | Workflow automation, built by the region, for the region — localized, self-hosted, no paywalls. | [`qadam-flow`](https://github.com/aiqadam/qadam-flow) |
 | **[Brand Guidelines](https://brand.aiqadam.org)** | The canonical brand & design system — identity, voice, tokens, UI patterns. | [`brand.aiqadam.org`](https://github.com/aiqadam/brand.aiqadam.org) |
+| **[Video Kit](https://github.com/aiqadam/video-kit)** | Promo and product videos made by talking to any coding agent — brief, HTML scenes, voice, music, render. Open-source stack. | [`video-kit`](https://github.com/aiqadam/video-kit) |
 
 > Have infrastructure the community should own? Build works by
 > **adopt-and-localise** or **build new** — open proposals welcome.
@@ -61,6 +62,7 @@ open-source software AI Qadam owns and runs. Build is **not** a fifth stream and
 | [**flow.aiqadam.org**](https://github.com/aiqadam/flow.aiqadam.org) | Public landing for Qadam Flow. |
 | [**build.aiqadam.org**](https://github.com/aiqadam/build.aiqadam.org) | The open-source infrastructure layer of AI Qadam. |
 | [**brand.aiqadam.org**](https://github.com/aiqadam/brand.aiqadam.org) | Brand & design system reference. |
+| [**video-kit**](https://github.com/aiqadam/video-kit) | Promo and product videos by talking to any coding agent — brief, HTML scenes, voice, music, render. |
 | [**ai-qadam-platform**](https://github.com/aiqadam/ai-qadam-platform) | Multi-tenant community platform — events, registrations, gamification, RBAC. Live on aiqadam.org. |
 | [**aiqadam-events-bot**](https://github.com/aiqadam/aiqadam-events-bot) | Events bot — publishing, registration, QR check-in via Telegram Mini App. Zero-code, built on Qadam Flow. |
 | [**aiqadam-events-bot-prod**](https://github.com/aiqadam/aiqadam-events-bot-prod) | Prod hosting for the Events Mini App (built from `aiqadam-events-bot@prod`). |
